@@ -171,8 +171,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9a35fc515801c3ca",
+  "active": "f91678ce1d8e98c9",
   "lastOpenFiles": [
+    "Dev/MySQL.md",
+    "Dev/Laravel.md",
+    "Dev/Git.md",
+    "Dev",
     "Linux",
     "Linux/Dual Monitor - Iris Xe Graphics.md",
     "Welcome.md"
