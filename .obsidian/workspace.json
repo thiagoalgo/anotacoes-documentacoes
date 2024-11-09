@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "27dcdd77da68a1a9",
+        "id": "9802111ac166e7b0",
         "type": "tabs",
         "children": [
           {
-            "id": "f55d214f883e855e",
+            "id": "e7f26bac0d2b8ed7",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -167,8 +167,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f55d214f883e855e",
+  "active": "e7f26bac0d2b8ed7",
   "lastOpenFiles": [
+    "Linux/Várias versões de PHP.md",
+    "_assets/Pasted image 20241109105403.png",
+    "_assets",
+    "Assets",
+    "Assets/Pasted image 20241109105155.png",
     "2024-11-09.md",
     "Dev/Git.md",
     "Linux/Dual Monitor - Iris Xe Graphics.md",
