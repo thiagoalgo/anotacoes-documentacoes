@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "9802111ac166e7b0",
+        "id": "8238425538b05bc8",
         "type": "tabs",
         "children": [
           {
-            "id": "e7f26bac0d2b8ed7",
+            "id": "edbab19488b6fa92",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Dev/Design Patterns - Padrões de Projeto.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Design Patterns - Padrões de Projeto"
             }
           }
         ]
@@ -167,9 +171,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e7f26bac0d2b8ed7",
+  "active": "edbab19488b6fa92",
   "lastOpenFiles": [
     "Linux/Várias versões de PHP.md",
+    "Dev/Design Patterns - Padrões de Projeto.md",
     "_assets/Pasted image 20241109105403.png",
     "_assets",
     "Assets",
