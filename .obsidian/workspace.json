@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dev/Design Patterns - Padrões de Projeto.md",
+                "file": "Dev/Git.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Design Patterns - Padrões de Projeto"
+              "title": "Git"
             }
           }
         ]
@@ -173,8 +173,8 @@
   },
   "active": "edbab19488b6fa92",
   "lastOpenFiles": [
-    "Linux/Várias versões de PHP.md",
     "Dev/Design Patterns - Padrões de Projeto.md",
+    "Linux/Várias versões de PHP.md",
     "_assets/Pasted image 20241109105403.png",
     "_assets",
     "Assets",

@@ -1,6 +1,5 @@
 # Git
 
-&nbsp;
 ## Rebase na branch local atual pegando o que está na main remota
 
 ```bash
@@ -9,7 +8,6 @@ git rebase origin/main
 git push --force-with-lease
 ```
 
-&nbsp;
 ## Reverter alterações de arquivo
 
 ```bash
@@ -20,14 +18,12 @@ git checkout -- <nome_do_arquivo>
 git checkout -- .
 ```
 
-&nbsp;
 ## Visualizar o que foi alterado no arquivo local:
 
 ```bash
 git diff <nome_do_arquivo>
 ```
 
-&nbsp;
 ## Para guardar as alterações de uma branch usando o stash e recuperá-las depois, siga estes passos:
 
 Guarde as alterações:
@@ -75,4 +71,10 @@ git checkout <nome_da_branch_remota>
 ```
 
 Isso criará uma nova branch local com o mesmo nome e mudará para ela.
+
+Caso haja alterações na branch remota e você queira atualizá-la localmente, basta usar o comando abaixo:
+
+```shell
+git pull origin nome-da-branch
+```
 
