@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dev/Git.md",
+                "file": "Linux/Várias versões de PHP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Git"
+              "title": "Várias versões de PHP"
             }
           }
         ]
@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "894dc54e6f7c7820",
@@ -158,7 +158,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -173,15 +173,18 @@
   },
   "active": "edbab19488b6fa92",
   "lastOpenFiles": [
-    "Dev/Design Patterns - Padrões de Projeto.md",
+    "Projetos/RHNB/Upgrade PowerGrid para v6.md",
     "Linux/Várias versões de PHP.md",
+    "Linux/Dual Monitor - Iris Xe Graphics.md",
+    "Dev/Git.md",
+    "Projetos/RHNB",
+    "Projetos",
+    "Dev/Design Patterns - Padrões de Projeto.md",
     "_assets/Pasted image 20241109105403.png",
     "_assets",
     "Assets",
     "Assets/Pasted image 20241109105155.png",
     "2024-11-09.md",
-    "Dev/Git.md",
-    "Linux/Dual Monitor - Iris Xe Graphics.md",
     "Dev/MySQL.md",
     "Dev/Laravel.md",
     "Dev",
