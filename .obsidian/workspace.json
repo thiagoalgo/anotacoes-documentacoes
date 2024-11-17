@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Várias versões de PHP.md",
+                "file": "Dev/Laravel/Boas práticas - Tests Livewire.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Várias versões de PHP"
+              "title": "Boas práticas - Tests Livewire"
             }
           }
         ]
@@ -173,8 +173,13 @@
   },
   "active": "edbab19488b6fa92",
   "lastOpenFiles": [
-    "Projetos/RHNB/Upgrade PowerGrid para v6.md",
+    "Dev/Mysql/MySQL.md",
+    "Dev/Laravel/Boas práticas - Tests Livewire.md",
+    "Dev/Laravel/Erro data 0000-00-00 Mysql.md",
+    "Dev/Mysql",
+    "Dev/Laravel",
     "Linux/Várias versões de PHP.md",
+    "Projetos/RHNB/Upgrade PowerGrid para v6.md",
     "Linux/Dual Monitor - Iris Xe Graphics.md",
     "Dev/Git.md",
     "Projetos/RHNB",
@@ -185,8 +190,6 @@
     "Assets",
     "Assets/Pasted image 20241109105155.png",
     "2024-11-09.md",
-    "Dev/MySQL.md",
-    "Dev/Laravel.md",
     "Dev",
     "Linux",
     "Welcome.md"
