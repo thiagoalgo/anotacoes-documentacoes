@@ -1,0 +1,1 @@
+https://ammar-aldwayma.me/blog/avoid-duplication-in-laravel-migrations-with-custom-blueprint-macros?utm_source=laravelnews&utm_medium=link&utm_campaign=laravelnews

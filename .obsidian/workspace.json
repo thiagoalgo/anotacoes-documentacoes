@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dev/Laravel/Soluções de problemas - Testes.md",
+                "file": "Dev/Laravel/Migration Macros.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Soluções de problemas - Testes"
+              "title": "Migration Macros"
             }
           }
         ]
@@ -171,10 +171,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f91678ce1d8e98c9",
+  "active": "edbab19488b6fa92",
   "lastOpenFiles": [
-    "Dev/Laravel/Boas práticas - Testes Livewire.md",
+    "Dev/Git/Git.md",
+    "Dev/Laravel/Migration Macros.md",
     "Dev/Laravel/Soluções de problemas - Testes.md",
+    "Dev/Laravel/Boas práticas - Testes Livewire.md",
     "Dev/Git",
     "Dev/Design Patterns",
     "Dev/Mysql/MySQL.md",
@@ -184,7 +186,6 @@
     "Linux/Várias versões de PHP.md",
     "Projetos/RHNB/Upgrade PowerGrid para v6.md",
     "Linux/Dual Monitor - Iris Xe Graphics.md",
-    "Dev/Git/Git.md",
     "Projetos/RHNB",
     "Projetos",
     "Dev/Design Patterns/Design Patterns - Padrões de Projeto.md",
