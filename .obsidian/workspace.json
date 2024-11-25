@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dev/Laravel/Migration Macros.md",
+                "file": "Freela/Estudos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Migration Macros"
+              "title": "Estudos"
             }
           }
         ]
@@ -173,8 +173,10 @@
   },
   "active": "edbab19488b6fa92",
   "lastOpenFiles": [
-    "Dev/Git/Git.md",
     "Dev/Laravel/Migration Macros.md",
+    "Freela/Estudos.md",
+    "Freela",
+    "Dev/Git/Git.md",
     "Dev/Laravel/Soluções de problemas - Testes.md",
     "Dev/Laravel/Boas práticas - Testes Livewire.md",
     "Dev/Git",
@@ -195,7 +197,6 @@
     "Assets/Pasted image 20241109105155.png",
     "2024-11-09.md",
     "Dev",
-    "Linux",
     "Welcome.md"
   ]
 }
