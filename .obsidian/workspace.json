@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Freela/Estudos.md",
+                "file": "Freela/Plano de Ação.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Estudos"
+              "title": "Plano de Ação"
             }
           }
         ]
@@ -173,9 +173,10 @@
   },
   "active": "edbab19488b6fa92",
   "lastOpenFiles": [
+    "Freela/Estudos.md",
+    "Freela/Plano de Ação.md",
     "_assets/Masterclass - O Plano - Beer and Code.pdf",
     "Dev/Laravel/Migration Macros.md",
-    "Freela/Estudos.md",
     "Freela",
     "Dev/Git/Git.md",
     "Dev/Laravel/Soluções de problemas - Testes.md",
@@ -197,7 +198,6 @@
     "Assets",
     "Assets/Pasted image 20241109105155.png",
     "2024-11-09.md",
-    "Dev",
     "Welcome.md"
   ]
 }
