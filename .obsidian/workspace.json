@@ -13,6 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Freela/Estudos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Estudos"
+            }
+          },
+          {
+            "id": "f30316087cba9e2b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Freela/Plano de Ação.md",
                 "mode": "source",
                 "source": false
@@ -21,7 +35,8 @@
               "title": "Plano de Ação"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -171,7 +186,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "edbab19488b6fa92",
+  "active": "f30316087cba9e2b",
   "lastOpenFiles": [
     "Freela/Estudos.md",
     "Freela/Plano de Ação.md",
