@@ -8,6 +8,11 @@ git rebase origin/main
 git push --force-with-lease
 ```
 
+Entendendo os comandos acima:
+
+- `git fetch origin`: Atualiza seu repositório local com as mudanças do repositório remoto, sem aplicar essas mudanças.
+- `git rebase origin/main`: Reaplica suas mudanças no topo das mudanças mais recentes do branch `main` remoto, criando uma história de commits mais linear.
+- `git push --force-with-lease`: Força o envio dos commits para o repositório remoto, mas verifica se houve alterações no branch remoto desde seu último fetch para evitar sobrescrever o trabalho de outros.
 ## Reverter alterações de arquivo
 
 ```bash
