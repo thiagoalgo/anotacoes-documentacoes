@@ -1,4 +1,4 @@
-##Livewire - testar campos JSON no banco de dados
+## Livewire - testar campos JSON no banco de dados
 
 ```php
 public function test_save()  
@@ -23,3 +23,18 @@ public function test_save()
         'roles' => $this->castAsJson([2]),   // <==========================
     ]);
     ```
+
+## TenantCouldNotBeIdentifiedOnDomainException
+
+Verificar se tem a propriedade abaixo na classe de teste:
+
+```php
+protected $tenancy = true;
+```
+
+Caso já tenha, pode ser usado o comando abaixo que limpa o cache de autoload, entre outras coisas:
+
+```bash
+composer install
+```
+

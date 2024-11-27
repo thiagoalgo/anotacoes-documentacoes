@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dev/Git/Git.md",
+                "file": "Dev/Laravel/Soluções de problemas - Testes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Git"
+              "title": "Soluções de problemas - Testes"
             }
           }
         ],
@@ -202,12 +202,12 @@
   },
   "active": "d2c15d0641e5865b",
   "lastOpenFiles": [
+    "Dev/Git/Git.md",
     "Freela/Estudos.md",
     "Freela/Plano de Ação.md",
     "_assets/Masterclass - O Plano - Beer and Code.pdf",
     "Dev/Laravel/Migration Macros.md",
     "Freela",
-    "Dev/Git/Git.md",
     "Dev/Laravel/Soluções de problemas - Testes.md",
     "Dev/Laravel/Boas práticas - Testes Livewire.md",
     "Dev/Git",
