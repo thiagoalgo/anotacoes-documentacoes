@@ -51,3 +51,19 @@ define('WP_DEBUG', true);
 3. Colocar os dados sobre o tema no arquivo style.php
 4. Adicionar um screenshot do tema em formato png com 1200x900
 5. Ativar o tema no painel do administrativo
+
+
+
+
+
+
+
+## Links úteis
+
+
+| Tema                    | Link                                                                                 |
+| ----------------------- | ------------------------------------------------------------------------------------ |
+| Referência da Funções   | https://developer.wordpress.org/reference/                                           |
+| Padrões de documentação | https://developer.wordpress.org/coding-standards/inline-documentation-standards/php/ |
+| Meta tags               | https://codex.wordpress.org/Meta_Tags_in_WordPress                                   |
+|                         |                                                                                      |
