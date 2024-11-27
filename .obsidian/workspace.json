@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Estudos/Wordpress.md",
+                "file": "Estudos/Wordpress - Curso de criação de temas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Wordpress"
+              "title": "Wordpress - Curso de criação de temas"
             }
           }
         ],
@@ -188,9 +188,10 @@
   },
   "active": "f30316087cba9e2b",
   "lastOpenFiles": [
+    "_assets/WordPress-Theme-Anatomy (1).png",
     "_assets/Pasted image 20241127175502.png",
     "Estudos/Untitled.canvas",
-    "Estudos/Wordpress.md",
+    "Estudos/Wordpress - Curso de criação de temas.md",
     "Dev/Laravel/Soluções de problemas - Testes.md",
     "Estudos/Wordpress",
     "Estudos",

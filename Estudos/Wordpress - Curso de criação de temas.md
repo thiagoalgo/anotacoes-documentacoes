@@ -31,3 +31,15 @@ php -S localhost:8000 -t . router.php
 Também é preciso configurar o formato das urls amigáveis no admin:
 
 ![[Pasted image 20241127175502.png]]
+
+## Modo DEBUG
+
+Para habilitar o modo debug do Wordpress, para usar em ambiente de desenvolvimento, basta adicionar a linha abaixo ao arquivo wp-config.php
+```php
+define('WP_DEBUG', true);
+```
+
+
+## Anatomia de um tema WordPress
+
+![[WordPress-Theme-Anatomy (1).png]]
