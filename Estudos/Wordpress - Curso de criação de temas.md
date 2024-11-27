@@ -43,3 +43,11 @@ define('WP_DEBUG', true);
 ## Anatomia de um tema WordPress
 
 ![[WordPress-Theme-Anatomy (1).png]]
+
+## Passos para a criação de um tema
+
+1. Criar a pasta do tema em wp-content/themes
+2. Criar os arquivos index.php e style.php
+3. Colocar os dados sobre o tema no arquivo style.php
+4. Adicionar um screenshot do tema em formato png com 1200x900
+5. Ativar o tema no painel do administrativo
