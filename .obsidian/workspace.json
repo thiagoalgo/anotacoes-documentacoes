@@ -27,30 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Freela/Estudos.md",
+                "file": "Estudos/Wordpress.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Estudos"
-            }
-          },
-          {
-            "id": "d2c15d0641e5865b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dev/Laravel/Soluções de problemas - Testes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Soluções de problemas - Testes"
+              "title": "Wordpress"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -200,15 +186,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d2c15d0641e5865b",
+  "active": "f30316087cba9e2b",
   "lastOpenFiles": [
-    "Dev/Git/Git.md",
+    "_assets/Pasted image 20241127175502.png",
+    "Estudos/Untitled.canvas",
+    "Estudos/Wordpress.md",
+    "Dev/Laravel/Soluções de problemas - Testes.md",
+    "Estudos/Wordpress",
+    "Estudos",
     "Freela/Estudos.md",
+    "Dev/Git/Git.md",
     "Freela/Plano de Ação.md",
     "_assets/Masterclass - O Plano - Beer and Code.pdf",
     "Dev/Laravel/Migration Macros.md",
     "Freela",
-    "Dev/Laravel/Soluções de problemas - Testes.md",
     "Dev/Laravel/Boas práticas - Testes Livewire.md",
     "Dev/Git",
     "Dev/Design Patterns",
@@ -223,8 +214,6 @@
     "Projetos",
     "Dev/Design Patterns/Design Patterns - Padrões de Projeto.md",
     "_assets/Pasted image 20241109105403.png",
-    "_assets",
-    "Assets",
     "Assets/Pasted image 20241109105155.png",
     "2024-11-09.md",
     "Welcome.md"
