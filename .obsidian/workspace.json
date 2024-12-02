@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Estudos/Wordpress - Curso de criação de temas.md",
+                "file": "Estudos/PHP Conference - Workshop Criando uma infraestrutura na nuvem.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Wordpress - Curso de criação de temas"
+              "title": "PHP Conference - Workshop Criando uma infraestrutura na nuvem"
             }
           }
         ],
@@ -188,15 +188,18 @@
   },
   "active": "f30316087cba9e2b",
   "lastOpenFiles": [
+    "Dev/NPM/NPM - problemas conhecidos.md",
+    "Estudos/PHP Conference - Workshop Criando uma infraestrutura na nuvem.md",
+    "Dev/NPM",
+    "Dev/Git/Git.md",
+    "Estudos/Wordpress - Curso de criação de temas.md",
     "_assets/WordPress-Theme-Anatomy (1).png",
     "_assets/Pasted image 20241127175502.png",
     "Estudos/Untitled.canvas",
-    "Estudos/Wordpress - Curso de criação de temas.md",
     "Dev/Laravel/Soluções de problemas - Testes.md",
     "Estudos/Wordpress",
     "Estudos",
     "Freela/Estudos.md",
-    "Dev/Git/Git.md",
     "Freela/Plano de Ação.md",
     "_assets/Masterclass - O Plano - Beer and Code.pdf",
     "Dev/Laravel/Migration Macros.md",
@@ -212,7 +215,6 @@
     "Projetos/RHNB/Upgrade PowerGrid para v6.md",
     "Linux/Dual Monitor - Iris Xe Graphics.md",
     "Projetos/RHNB",
-    "Projetos",
     "Dev/Design Patterns/Design Patterns - Padrões de Projeto.md",
     "_assets/Pasted image 20241109105403.png",
     "Assets/Pasted image 20241109105155.png",
