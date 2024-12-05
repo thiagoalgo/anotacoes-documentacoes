@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Estudos/PHP Conference - Workshop Criando uma infraestrutura na nuvem.md",
+                "file": "Estudos/Beer & Code/Beer & Code - Anotações mentorias.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PHP Conference - Workshop Criando uma infraestrutura na nuvem"
+              "title": "Beer & Code - Anotações mentorias"
             }
           }
         ],
@@ -186,10 +186,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f30316087cba9e2b",
+  "active": "f91678ce1d8e98c9",
   "lastOpenFiles": [
+    "Estudos/Beer & Code",
+    "Estudos/PHP Conference/PHP Conference - Inteligência artificial IA (AI).md",
+    "Estudos/Beer & Code/Beer & Code - Anotações mentorias.md",
+    "Estudos/PHP Conference/PHP Conference - Workshop Criando uma infraestrutura na nuvem.md",
+    "Estudos/PHP Conference",
     "Dev/NPM/NPM - problemas conhecidos.md",
-    "Estudos/PHP Conference - Workshop Criando uma infraestrutura na nuvem.md",
     "Dev/NPM",
     "Dev/Git/Git.md",
     "Estudos/Wordpress - Curso de criação de temas.md",
@@ -214,7 +218,6 @@
     "Linux/Várias versões de PHP.md",
     "Projetos/RHNB/Upgrade PowerGrid para v6.md",
     "Linux/Dual Monitor - Iris Xe Graphics.md",
-    "Projetos/RHNB",
     "Dev/Design Patterns/Design Patterns - Padrões de Projeto.md",
     "_assets/Pasted image 20241109105403.png",
     "Assets/Pasted image 20241109105155.png",
