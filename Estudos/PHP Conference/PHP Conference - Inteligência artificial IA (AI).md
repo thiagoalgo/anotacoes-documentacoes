@@ -3,3 +3,5 @@ https://www.canva.com/design/DAGYaySWNcI/SX2TWvnz1q66EU1iLMx2MA/view?utm_content
 https://cursor.directory/
 
 https://gabrielcano.com.br/contatos/
+
+https://gabrielcano.notion.site/Documenta-o-de-Scrum-Story-1534cada127080c1a7b3f20f6c4599d4
