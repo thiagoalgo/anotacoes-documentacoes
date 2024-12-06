@@ -11,3 +11,5 @@
 [https://chatgpt.com/g/g-HvNFvh8ty-filament-3-expert](https://chatgpt.com/g/g-HvNFvh8ty-filament-3-expert)
 
 [https://chatgpt.com/g/g-47mHhNyop-laravel-11-x-livewire-v3-and-filament-v3-expert](https://chatgpt.com/g/g-47mHhNyop-laravel-11-x-livewire-v3-and-filament-v3-expert)
+
+https://filamentexamples.com/
