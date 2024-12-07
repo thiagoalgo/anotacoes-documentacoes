@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Freela/Estudos.md",
+                "file": "AI/Links de ferramentas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Estudos"
+              "title": "Links de ferramentas"
             }
           }
         ]
@@ -173,6 +173,9 @@
   },
   "active": "edbab19488b6fa92",
   "lastOpenFiles": [
+    "Freela/Estudos.md",
+    "AI/Links de ferramentas.md",
+    "AI",
     "Estudos/PHP Conference/PHP Conference - Inteligência artificial IA (AI).md",
     "Estudos/Beer & Code/Beer & Code - Anotações mentorias.md",
     "Dev/Git/ContribuiçõesOpensource.md",
@@ -189,7 +192,6 @@
     "Dev/Laravel/Soluções de problemas - Testes.md",
     "Estudos/Wordpress",
     "Estudos",
-    "Freela/Estudos.md",
     "Freela/Plano de Ação.md",
     "_assets/Masterclass - O Plano - Beer and Code.pdf",
     "Dev/Laravel/Migration Macros.md",
@@ -199,7 +201,6 @@
     "Dev/Design Patterns",
     "Dev/Mysql/MySQL.md",
     "Dev/Laravel/Erro data 0000-00-00 Mysql.md",
-    "Dev/Mysql",
     "Linux/Várias versões de PHP.md",
     "Projetos/RHNB/Upgrade PowerGrid para v6.md",
     "Linux/Dual Monitor - Iris Xe Graphics.md",
